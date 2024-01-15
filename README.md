@@ -3,7 +3,10 @@
 ![IMG_9234 Copy](https://github.com/sahilr4ne/sahilr4ne/assets/156423753/f4c804fe-b51f-432f-87a2-66b1c7fc2b22)
 
 ## Summary
-Dedicated and motivated cybersecurity enthusiast, currently pursuing a B.Tech in Computer Science with a specialization in Cybersecurity at MIT WPU Pune, expected to graduate in June 2025. Possesses a comprehensive skill set across all cybersecurity domains, complemented by a strong academic foundation and hands-on experience. Excels in implementing proactive security measures with a preventive approach, specializing in network security, digital forensics, cryptography, and incident response. Proven expertise in identifying the root cause of security incidents through comprehensive investigations. Strong analytical skills and a commitment to continuous learning, aiming to contribute technical expertise, proactive thinking, and incident response skills to an entry-level cybersecurity role.
+Cybersecurity enthusiast 🌐 pursuing a B.Tech in Computer Science with a focus on Cybersecurity at MIT WPU Pune. 
+Proven expertise in network security, digital forensics, cryptography, and incident response. 
+Committed to contributing technical proficiency and proactive thinking to an entry-level cybersecurity role. 
+Strong academic foundation complemented by hands-on experience. Eager to excel in the dynamic field of cybersecurity. 🚀.
 
 ## Skills
 - **Network Security:** Firewalls, Intrusion Detection/Prevention Systems (IDS/IPS), VPNs
