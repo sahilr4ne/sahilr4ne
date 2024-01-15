@@ -1,5 +1,5 @@
 # Sahil Rane
-**Location:** Pune 411021 | **Phone:** +918080093281 | **Email:** sahilr4ne@gmail.com | **LinkedIn:** [linkedin.com/in/sahilr4ne](https://www.linkedin.com/in/sahilr4ne)
+**Location:** Pune 411021 | **Email:** sahilr4ne@gmail.com | **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilr4ne-blue)](https://www.linkedin.com/in/sahilr4ne) | **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-sahilr4ne-red)](https://www.instagram.com/sahillrane)
 ![IMG_9234 Copy](https://github.com/sahilr4ne/sahilr4ne/assets/156423753/f4c804fe-b51f-432f-87a2-66b1c7fc2b22)
 
 ## Summary
